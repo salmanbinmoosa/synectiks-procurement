@@ -1,0 +1,30 @@
+.filter-btn {
+    width: 202px;
+    height: 50px;
+    flex-shrink: 0;
+
+    border-radius: 5px;
+    border: 1px solid #6418C3;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.filter-btn p {
+    color: #6418C3;
+    font-family: Cairo;
+    font-size: 1.125rem;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+
+.hider-filter {
+    width: 1109px;
+    height: 254px;
+    flex-shrink: 0;
+
+    border-radius: 5px;
+border: 1px solid #6418C3;
+}
